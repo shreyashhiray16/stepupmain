@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+
+# Sitemap: set VITE_SITE_URL and regenerate sitemap.xml when production domain is ready.
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
